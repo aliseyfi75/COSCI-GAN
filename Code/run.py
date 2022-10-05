@@ -1,5 +1,5 @@
 import argparse
-from Main_modules import GroupGAN
+from Main_modules import COSCIGAN
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--id', type=int, default=0)
@@ -40,7 +40,7 @@ CD_type = parser.parse_args().CD_type
 gamma = parser.parse_args().gamma
 noise_len = parser.parse_args().noise_len
 
-GroupGAN(n_groups,
+COSCIGAN(n_groups,
          id,
          expId,
          dataset,

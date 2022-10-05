@@ -113,7 +113,7 @@ class Generator(nn.Module):
         output = self.model(x)
         return output
 
-def GroupGAN(n_groups,
+def COSCIGAN(n_groups,
              id,
              expId,
              dataset,
