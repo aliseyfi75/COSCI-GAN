@@ -9,6 +9,7 @@ Neural Information Processing Systems (NeurIPS), 2022.
 Paper Link: 
 
 Code Author: Ali Seyfi
+
 Contact: ali.seyfi.12@gmail.com
 
 This directory contains implementations of COSCI-GAN framework for synthetic multivariate time series data generation
