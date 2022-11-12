@@ -6,7 +6,7 @@ Reference: Ali Seyfi, Jean-Francois Rajotte, Raymond T. Ng,
 "Generating multivariate time series with COmmon Source CoordInated GAN (COSCI-GAN)," 
 Neural Information Processing Systems (NeurIPS), 2022.
  
-Paper Link: 
+Paper Link: https://openreview.net/pdf?id=RP1CtZhEmR
 
 Code Author: Ali Seyfi
 
